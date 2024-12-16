@@ -1,0 +1,79 @@
+.titles-text {
+font-family: "Nunito", sans-serif;
+font-weight: bold;
+font-style: normal;
+}
+
+.site-header {
+  background-image: url('22.jpg');  
+  background-position: center; 
+  height: 500px;
+}
+
+.carousel1 {
+  min-height: 90%;   
+  min-width: 90%;
+}
+
+.carousel2 {
+    min-height: 90%;   
+    min-width: 90%;
+  }
+
+.carousel3 {
+    min-height: 90%;   
+    min-width: 90%;
+  } 
+
+.carousel4 {
+    min-height: 90%;   
+    min-width: 90%;
+  }
+
+.carousel5 {
+    min-height: 90%;   
+    min-width: 90%;
+  } 
+
+.carousel6 {
+    min-height: 90%;   
+    min-width: 90%;
+  }
+
+.carousel-item img {
+    width: 140px;
+    height: 240px;
+  } 
+
+#welcome {
+    text-align: center;
+  }
+
+#welcome li {
+    text-decoration: none;
+  }
+
+#welcome img {
+    height: 35px;
+    margin-top:  50%;
+    margin-bottom: 50%;
+  }
+
+.breadcrumb-item.active {
+    text-align: center;
+    font-family: "nunito", sans-serif;
+    font-weight: bold;
+  }
+  #carouselExample {
+    max-width: 100%; /* задава максимална ширина на карусела */
+    width: 100%; /* за да използва цялата ширина на контейнера */
+  }
+  
+  .carousel-inner {
+    height: 500px; /* задайте желаната височина на карусела */
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: auto; /* Това ще запази пропорциите на изображението */
+}
